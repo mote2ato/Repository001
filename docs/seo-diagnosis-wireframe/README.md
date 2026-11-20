@@ -12,6 +12,8 @@
 | 2 | [flow.md](flow.md) | 画面遷移図（戻り先と失敗時の分岐を含む） |
 | 3 | [components.md](components.md) | コンポーネント一覧と再利用関係 |
 | 4 | [open-questions.md](open-questions.md) | 未確定事項・確認質問、ワイヤー本体と分けた「提案」 |
+| — | [wireframe-all.md](wireframe-all.md) | 上の全ファイルを1つにまとめた版（外部のAIに渡すとき用） |
+| — | [chatgpt-design-prompt.md](chatgpt-design-prompt.md) | ChatGPTにUIデザインを依頼するための指示文 |
 
 9画面すべてにデスクトップ版とモバイル版を作り、各画面に次の5つの注記を付けています。
 
